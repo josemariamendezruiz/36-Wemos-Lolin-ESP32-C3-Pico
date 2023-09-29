@@ -17,7 +17,12 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 */
-   
+
+/*****************************************************************/
+/* A LA SALIA DEL PIN DE DATOS HACIA LA TIRAD HAY QUE PONER UNA RESISTENCIA DE 470 OHMIOS */
+/*****************************************************************/
+
+
 #include <FastLED.h>
 #include <Wire.h>
 
